@@ -3,7 +3,7 @@ from shapes.base import Shape
 
 class Rectangle(Shape, ABC):
     def __init__(self, color, width, height):
-        super().__init__("Квадрат", color)
+        super().__init__("Прямоугольник", color)
         self.__width = width
         self.__height = height
 
