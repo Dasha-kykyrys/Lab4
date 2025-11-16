@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0045e289-764a-4a5e-a83e-a4b8dce4b629" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/manager/shape_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/console_ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
